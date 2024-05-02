@@ -17,6 +17,10 @@ This script is a basic keylogger that captures keystrokes and writes them to a f
 pip install pynput
 ```
 
+## Clone this repository
+```bash
+
+```
 ## Usage
 
 ## Windows
