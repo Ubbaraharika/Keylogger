@@ -50,7 +50,10 @@ sudo python3 keylogger.py
 5. To stop the keylogger, press `Ctrl+C`.
 
 ## Overview 
+![Log snapshot](https://github.com/Ubbaraharika/Keylogger/assets/108224160/934f8c6d-80cc-443d-b4e1-3e4b02db499c)
 
+## Recorder Logs
+![Recorded Log](https://github.com/Ubbaraharika/Keylogger/assets/108224160/5e7e8583-26b1-4dc2-9f33-e76d69b8bd00)
 
 ## Disclaimer
 
